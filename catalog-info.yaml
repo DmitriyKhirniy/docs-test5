@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "docs-test5"
+  description: "dsfsdfsdf"
+  annotations:
+    backstage.io/techdocs-ref: url:http://github.com/DmitriyKhirniy/docs-test5
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "DmitriyKhirniy"

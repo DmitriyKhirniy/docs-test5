@@ -1,0 +1,8 @@
+site_name: "docs-test5"
+site_description: "dsfsdfsdf"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
